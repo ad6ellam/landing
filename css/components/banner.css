@@ -1,0 +1,17 @@
+.banner {
+  background: url(../../images/useful.jpg)
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+}
+
+.banner h1 {
+  color: white;
+  font-size: 36px;
+}
+
+.banner p {
+  color:white;
+  font-size: 24px;
+  opacity: 0.85;
+}
